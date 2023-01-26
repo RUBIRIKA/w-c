@@ -77,7 +77,7 @@ const search = () => {
                     className="flex-grow pl-4 w-full  bg-transparent outline-none text-lg
            text-gray-600 placeholder-gray-400"
                     type="text"
-                    placeholder={placeholder || "search"}
+                    placeholder={placeholder || "search"} 
                 />
                 <SearchIcon
                     className="hidden lg:inline-flex h-8  bg-[#17c5c2] text-white  

@@ -35,8 +35,8 @@ export default function BasicMenu() {
       </div>
 
       <Menu
-        id="basic-menu"
-        anchorEl={anchorEl}
+        id="basic-menu" 
+        anchorEl={anchorEl} 
         open={open}
         onClose={handleClose}
         MenuListProps={{
